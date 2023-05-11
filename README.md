@@ -7,6 +7,8 @@ The following are the default for all personal repositories, unless the file is 
 - Bug Report Issue Template
 - Feature Request Issue Template
 
+<hr/>
+
 For more information, visit:
 
 [Creating a default community health file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
